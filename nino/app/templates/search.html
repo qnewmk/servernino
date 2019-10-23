@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Search</title>
+		<link rel="stylesheet" type="text/css" href="../static/css/reset.css">
+		<link rel="stylesheet" type="text/css" href="../static/css/app.css">
+		<link rel="stylesheet" type="text/css" href="../static/css/foundation.css">
+		<link rel="stylesheet" type="text/css" href="../static/css/foundation.min.css">
+		<link rel="stylesheet" type="text/css" href="../static/css/search.css">
+	</head>
+	<body>
+		<ul class="menu align-left expanded text-center ">
+			<li><a href="http://localhost:5000" class="seta"><img src="../static/img/left.png" alt="Back"/></a></li>
+			<li><a href="#">DevOps</a></li>
+			<li><a href="#">ITOM</a></li>
+			<li><a href="#">Security</a></li>
+			<li><a href="#">Big Data</a></li>
+		</ul>
+		<label class="labelNome">Nome:</label>
+		<select id="name" class="select">
+		{% for id in array %}
+		 	<option value="{{ id }}">{{ id }}</option>
+		{% endfor %}
+		</select>
+	</body>
+</html>

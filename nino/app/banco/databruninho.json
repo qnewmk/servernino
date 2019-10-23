@@ -1,0 +1,66 @@
+{
+	"Suites": {
+		"HT": {
+			"Nomes": [
+				{
+					"DIEGO ALEJANDRO BIONDO": {
+						"SQL": "Bien",
+						"DB2": "Regular",
+						"MSQL": "Bien",
+						"Postgres": "Bien",
+						"Oracle": "Bien",
+						"Active Directory": "Sobresaliente",
+						"Ldap": "Sobresaliente",
+						"Open Ldap": "Avanzado ",
+						"e-directory": "Regular",
+						"Redes": "Sobresaliente",
+						"Protocolos": "Sobresaliente",
+						"Telecomunicaciones": "Sobresaliente",
+						"Windows": "Sobresaliente",
+						"SUSE": "Bien",
+						"AIX": "Regular",
+						"ReadHat": "Bien",
+						"Solaris": "Regular",
+						"OS/400": "N/A",
+						"Unix": "Bien",
+						"Cobol": "N/A",
+						"Java": "N/A",
+						"JCL": "N/A",
+						"Visual Basic Net": "N/A",
+						"C": "N/A",
+						"Java script": "N/A"
+					}
+				},
+				{
+					"JOHN FREDDY NIÑO DIAZ": {
+					"SQL": "Regular",
+					"DB2": "N/A",
+					"MSQL": "Regular",
+					"Postgres": "Regular",
+					"Oracle": "Regular",
+					"Active Directory": "Sobresaliente",
+					"Ldap": "Bien",
+					"Open Ldap": "N/A",
+					"e-directory": "N/A",
+					"Redes": "Bien",
+					"Protocolos": "Bien",
+					"Telecomunicaciones": "Bien",
+					"Windows": "Sobresaliente",
+					"SUSE": "Bien",
+					"AIX": "Regular",
+					"ReadHat": "Regular",
+					"Solaris": "Regular",
+					"OS/400": "N/A",
+					"Unix": "Regular",
+					"Cobol": "N/A",
+					"Java": "N/A",
+					"JCL": "N/A",
+					"Visual Basic Net": "N/A",
+					"C": "N/A",
+					"Java script": "N/A"
+					}
+				}
+			]
+		}
+	}
+}

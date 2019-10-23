@@ -1,0 +1,33 @@
+.menu{
+	background: #333;
+}
+
+li{
+	background: #333;
+}
+
+a:hover{
+	background-color: #8c8c8c;
+
+}
+
+a{color: #fff;}
+
+.seta{
+	max-height: 350px;
+    margin-top: -7px;
+}
+
+.select {
+	width: 200px;
+	margin-left: 20px;
+}
+
+.labelNome {
+	margin-left: 20px;
+}
+
+/*.menu{background: #333;}
+
+li{background: #333;}*/
+
